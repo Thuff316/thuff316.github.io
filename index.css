@@ -1,0 +1,89 @@
+body {
+    background-color:darkslategray;
+}
+
+ h2, h3, p {
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: avantgarde;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    top: 0;
+}
+
+.banner-text {
+    text-align: center;
+    padding-bottom: 0;
+    font-weight: bold;
+}
+
+.team {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mike  {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.johnny {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.oc {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.jimmy {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.leni {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.hawk {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.nicky {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.nick {
+    width: 1024px;
+    height: 1024px;
+}
+
+.bio {
+    font-weight: bold;
+    padding-top: 1%;
+}
+
+#name {
+    font-family: avantgarde;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#contact {
+    text-align: center;
+    font-family: avantgarde;
+    font-weight: bold;
+    font-size: 30px;
+    border-top: 5px solid black;
+}
